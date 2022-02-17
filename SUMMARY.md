@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Features](features.md)
+* [Features](features/README.md)
+  * [Partnership](features/partnership.md)
 * [Names](names/README.md)
   * [Register name](names/register-name.md)
   * [Edit name](names/edit-name.md)
