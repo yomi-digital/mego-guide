@@ -2,8 +2,12 @@
 
 1.Open the DAPP in the top right corner (remember to have connected your Metamask and be on Polygon Network)&#x20;
 
+![](<../.gitbook/assets/Immagine 2022-02-17 174410.png>)
+
 
 
 2\. Choose your name with one of the available extensions (e.g. YOMI.ART YOMI.DAO)&#x20;
+
+![](<../.gitbook/assets/Immagine 2022-02-17 174600.png>)
 
 3.Found it? Click on Buy!!!
