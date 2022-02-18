@@ -6,7 +6,7 @@
 
 
 
-2\. Choose your name with one of the available extensions (e.g. YOMI.ART YOMI.DAO)&#x20;
+2\. Choose your name with one of the available extensions (**dao,art,ibz,martix,ape**)&#x20;
 
 ![](<../.gitbook/assets/Immagine 2022-02-17 174600.png>)
 
