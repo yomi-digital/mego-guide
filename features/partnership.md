@@ -6,5 +6,7 @@ If for example you have created a PFP collection or a Metaverse, using MEGO will
 
 A MEGO account costs from 2 to 10 Matic, in partnerships a fee remains for the "administrators" of the platforms or communities!
 
-Follow the link to apply!
+Follow the link to apply!&#x20;
+
+[https://tally.so/r/mR1Gln](https://tally.so/r/mR1Gln)
 
