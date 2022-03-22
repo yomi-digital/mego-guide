@@ -7,7 +7,7 @@
 
 ### Create new event form
 
-![](../.gitbook/assets/Screenshot\_20220217\_115319.png)
+![](<../.gitbook/assets/Immagine 2022-03-22 161138 (1).png>)
 
 In this form you can start write the basic informations:
 
