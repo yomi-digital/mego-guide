@@ -1,3 +1,3 @@
 # Video Tutorial
 
-[https://www.youtube.com/watch?v=sBTLS1Aa-3k\&t=2s](https://www.youtube.com/watch?v=sBTLS1Aa-3k\&t=2s)
+{% embed url="https://www.youtube.com/watch?t=2s&v=sBTLS1Aa-3k" %}
