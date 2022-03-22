@@ -21,6 +21,6 @@ After you filled out the form click on "PREPARE METADATA", submit the transactio
 
 ### Your events page
 
-![](<../.gitbook/assets/Screenshot\_20220217\_115836 (2).png>)
+![](../.gitbook/assets/event.png)
 
 After you created your first event you'll be able to \*mint\*, \*transfer\* or manage \*whitelist\* for the claiming process. Click one of the icons to access the page.
