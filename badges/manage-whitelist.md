@@ -12,5 +12,9 @@ Here you can write a list of addresses in the text input, writing one address at
 
 After you created your list simply write on "WHITELIST PROVIDED ACCOUNTS", you will need to confirm the transaction with your Metamask account.
 
-Each whitelisted address can access provided link to claim the token, in the example the link is: \
+Each whitelisted address can access provided link to claim the token, in the example the link is:
+
+![](<../.gitbook/assets/badge whitelist.png>)
+
+&#x20;\
 [https://dapp.mego.cx/#/redeem/41283608080091118423385257998006738702710803816668584942604332109593202121202](https://dapp.mego.cx/#/redeem/41283608080091118423385257998006738702710803816668584942604332109593202121202)
