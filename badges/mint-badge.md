@@ -1,7 +1,7 @@
 # Mint badge
 
-To mint a new badge simply click on the \*mint\* icon, you'll be redirected to a page similar to this:
+To mint a new badge just click on the _mint_ icon, you will be redirected to this page:
 
-![](../.gitbook/assets/Screenshot\_20220217\_120130.png)
+![](../.gitbook/assets/mint.png)
 
 At this point simply write the amount of badges you want to mint, then click on "MINT BADGES" and wait for transaction.
