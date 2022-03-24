@@ -16,5 +16,4 @@ Each whitelisted address can access provided link to claim the token, in the exa
 
 ![](<../.gitbook/assets/badge whitelist.png>)
 
-&#x20;\
-[https://dapp.mego.cx/#/redeem/41283608080091118423385257998006738702710803816668584942604332109593202121202](https://dapp.mego.cx/#/redeem/41283608080091118423385257998006738702710803816668584942604332109593202121202)
+&#x20;
