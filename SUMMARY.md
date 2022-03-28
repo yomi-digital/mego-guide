@@ -18,4 +18,5 @@
 * [PGP](pgp/README.md)
   * [Link PGP](pgp/link-pgp.md)
   * [Search PGP](pgp/search-pgp.md)
+* [Send Matic](send-matic.md)
 * [Video Tutorial](video-tutorial.md)
