@@ -15,5 +15,4 @@
   * [Mint badge](badges/mint-badge.md)
   * [Transfer badges](badges/transfer-badges.md)
   * [Manage whitelist](badges/manage-whitelist.md)
-* [Send Matic](send-matic.md)
 * [Video Tutorial](video-tutorial.md)
