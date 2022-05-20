@@ -1,5 +1,5 @@
 ---
-description: MEGO it's you, on the metaverse.
+description: MEGO. It's you, on the metaverse.
 ---
 
 # Introduction

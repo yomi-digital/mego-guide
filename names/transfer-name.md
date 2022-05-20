@@ -10,4 +10,4 @@ Or by using the classic Wallet address
 
 ![](<../.gitbook/assets/Immagine 2022-03-09 162644.png>)
 
-It's up to you!
+The choice is yours!

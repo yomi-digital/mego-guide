@@ -1,5 +1,7 @@
 # Transfer badges
 
+
+
 To transfer badges just click on the _transfer_ icon, you will be redirected to this page
 
 ![](<../.gitbook/assets/transfer without address (1).png>)

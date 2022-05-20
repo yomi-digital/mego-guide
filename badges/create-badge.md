@@ -1,6 +1,6 @@
 # Create badge
 
-1. Connect to Polygon with your wallet and access dApp: [https://dapp.mego.cx/](https://dapp.mego.cx/)
+1. Connect to Polygon with your wallet and access dApp: [https://dapp.mego.cx/](https://dapp.mego.cx)
 2. Go to "Badge" page inside dApp: [https://dapp.mego.cx/#/badges](https://dapp.mego.cx/#/badges)
 3. Click "REGISTER YOUR FIRST EVENT" button, if it's the first time you create an event. If not click "+" button on top right.
 4. Follow the registration form steps.

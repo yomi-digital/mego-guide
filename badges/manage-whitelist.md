@@ -1,5 +1,7 @@
 # Manage whitelist
 
+
+
 To manage your whitelist, simply click on the _whitelist_ icon and you will be redirected to this page:
 
 ![](../.gitbook/assets/whitelist.png)
