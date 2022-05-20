@@ -5,7 +5,7 @@
   * [Names](names/README.md)
     * [Register name](names/register-name.md)
     * [Edit name](names/edit-name.md)
-    * [Registered names](names/registered-names.md)
+    * [Check registered names](features/names/check-registered-names.md)
     * [Transfer name](names/transfer-name.md)
     * [Link NFT](names/link-nft.md)
   * [Badges](badges/README.md)
