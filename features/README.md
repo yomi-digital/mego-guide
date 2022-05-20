@@ -1,9 +1,14 @@
 # Features
 
-MEGO is a technology that integrates and synchronises your digital identity with the Polygon Network. You can Mint your own name and personalise your data by displaying them directly on OpenSea as regular ERC-721 tokens.
+**MEGO Names** allows you to mint your own name, associate it with your wallet, and generate a customized card (NFT) to be seen on OpenSea as regular ERC-721 tokens. These are stored directly in the blockchain and are rendered as SVG, you will then be able to change the colours and add your logo. That's not all: you can also hook up specific PFP collections and link your NFT to the profile!
 
-The tokens are stored directly in the blockchain and are rendered as SVG, you will then be able to change the colours and add your logo, but that's not all! you can also hook up specific PFP collections and link your NFT to the profile!
+**MEGO Badges** grants you the opportunity to mine and deliver ERC-1155 tokens in order to notarize achievements, participation in online/offline events and so on. This feature is a "POAP"-like and is free, you will be charged only for the minting costs.
 
-With MEGO You can also Mint and deliver ERC-1155 badge tokens for online/offline events. This functionality is a "POAP" like feature that is free of charge, you have to pay for the minting costs.
+**MEGO PGP** is designed to streamline transaction management, providing an extra level of security.
 
-You can access on your Metaverse directly with MEGO by storing and importing your data directly... Names+Avatars+Certificates+Reputation, You on Metverse!!!
+**MEGO Tickets** provides you with a system for the sale and emission of NFT tickets for your events. Thanks to a simple integration, they can also be sold in FIAT.
+
+The next stage of MEGO will be the release of a **Decentralized CMS**, thanks to which you will be able to store your content directly within the blockchain, in an immutable and secure form. You will no longer need a centralized database, thus lowering management costs, increasing security and reducing environmental impact.
+
+
+

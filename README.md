@@ -1,10 +1,16 @@
+---
+description: MEGO it's you, on the metaverse.
+---
+
 # Introduction
 
-**MEGO** is a composable identity system on Polygon Network, made by [**YOMI**](https://yomi.digital), a web3 tech company.
+**MEGO** is a multi-chain ecosystem of products to manage identities on the metaverse, developed by [**YOMI**](https://yomi.digital/), a Web3 tech company.
 
-Own your username on blockchain, forever. Store your 2d/3d avatar and other profile data, and use it across the metaverse.&#x20;
+Currently, MEGO’s core features are Names, Badges, PGP and Tickets.
 
-**MEGO** it's you.
+The most advanced stage of MEGO will be the release of a Decentralized CMS, thanks to which you will be able to store your content directly within the blockchain, in an immutable and secure form.
+
+****
 
 
 
