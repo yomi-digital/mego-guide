@@ -4,6 +4,6 @@
 
 2\. During the creation of your Account (e.g. YOMI.APE) go to the section PFP section, select the collection (e.g. Primatic) and enter your NFT number.&#x20;
 
-![](<../../.gitbook/assets/Immagine 2022-02-17 180518.png>)
+![](<../.gitbook/assets/Immagine 2022-02-17 180518.png>)
 
 3\. Done!!

@@ -9,8 +9,3 @@ description: MEGO it's you, on the metaverse.
 Currently, MEGO’s core features are Names, Badges, PGP and Tickets.
 
 The most advanced stage of MEGO will be the release of a Decentralized CMS, thanks to which you will be able to store your content directly within the blockchain, in an immutable and secure form.
-
-****
-
-
-
